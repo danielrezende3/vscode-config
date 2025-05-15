@@ -1,0 +1,38 @@
+{
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 12,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.semanticHighlighting.enabled": false,
+    "editor.renderLineHighlight": "all",
+    "editor.fontLigatures": true,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme": "symbols",
+    "workbench.settings.applyToAllProfiles": [
+        "explorer.decorations.badges",
+        "debug.inlineValues",
+        "debug.toolBarLocation",
+        "files.autoSave",
+        "editor.renderLineHighlight",
+        "workbench.statusBar.visible"
+    ],
+    "window.newWindowProfile": "Default",
+    "window.menuBarVisibility": "compact",
+    "window.commandCenter": false,
+    "explorer.decorations.colors": false,
+    "explorer.decorations.badges": false,
+    "debug.inlineValues": "off",
+    "debug.toolBarLocation": "docked",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "workbench.statusBar.visible": false,
+}
